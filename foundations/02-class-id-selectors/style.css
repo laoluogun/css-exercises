@@ -1,0 +1,18 @@
+.para {
+    background-color: pink;
+    font-family: Verdana, 'Dejavu Sans', sans-serif;
+}
+
+.para#cooler, 
+#two {
+    font-size: 24px;
+}
+#one {
+    color: blue; 
+    font-size: 36px;
+}
+
+#two {
+    background-color: lightgreen;
+    font-weight: bold;
+}
