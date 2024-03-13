@@ -13,17 +13,20 @@ body {
   border-bottom: 1px solid #ddd;
   box-shadow: 0 0 8px rgba(0,0,0,.1);
   justify-content: space-between;
+  align-items: center; /* Remember to add this to next commit */
   display: flex;
+  padding: 8px;
 }
 
 .rightside,
 .leftside {
 display: flex;
+gap: 16px;
 }
 
-.rightside{
-  justify-content: flex-end;
-}
+
+
+
 
 .profile-image {
   background: rebeccapurple;
